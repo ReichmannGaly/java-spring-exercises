@@ -1,3 +1,3 @@
 # java-spring-exercises
 
-Basic java spring exercise
+Basic java spring exercises
